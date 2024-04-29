@@ -1,0 +1,11 @@
+{
+  "name": "a-collaborative-task-tracking-system",
+  "version": "1.0.0",
+  "description": "A backend system for a task tracking and management application that facilitates collaboration and organization within teams or projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
